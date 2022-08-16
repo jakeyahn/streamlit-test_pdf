@@ -1,7 +1,12 @@
-streamlit
-pandas
 numpy
 pdfplumber
 Pillow
 Wand
 stqdm
+streamlit==1.2.0
+sentence-transformers
+st-annotated-text
+keybert
+pandas
+seaborn
+pdfplumber
