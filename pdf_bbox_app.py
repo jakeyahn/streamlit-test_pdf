@@ -10,7 +10,8 @@ from caption_extraction import *
 import zipfile
 
 st.title('DART-based 기업공시 Object Extractor')
-
+if not os.path.ifdir('pdf_file'):
+   os.mkdir('pdf_file')
 
 #########
 
