@@ -1,4 +1,4 @@
-ImageMagick                         7.0.10.27-2
+ImageMagick                         
 glob
-regex                               7.0.10.27-2
+regex                              
 libMagickWand6_6
