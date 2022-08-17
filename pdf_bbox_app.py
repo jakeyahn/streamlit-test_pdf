@@ -3,7 +3,8 @@ import os
 import pandas as pd
 import numpy as np
 import pdfplumber
-from PIL import Image
+#from PIL import Image
+from wand.image import Image
 from stqdm import stqdm
 from util import *
 from caption_extraction import *
