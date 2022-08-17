@@ -10,3 +10,4 @@ keybert
 pandas
 seaborn
 pdfplumber
+magickwand
