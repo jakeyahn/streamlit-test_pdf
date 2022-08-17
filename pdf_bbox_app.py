@@ -59,9 +59,9 @@ if uploaded_files is not None and process_button:
 
             # text, image 객체 추출
             text = get_text(page)
-            #image = get_image(page)
+            image = get_image(page)
             #image=Image(page)
-            image = Image.open(page)
+            #image = Image.open(page)
             # tableobject 객체 딕셔너리로 변환
             table_obj = get_table(page)
             table = []
